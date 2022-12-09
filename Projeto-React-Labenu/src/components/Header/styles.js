@@ -12,6 +12,7 @@ export const DivUm = styled.div`
     justify-content: center;
     align-items: center;
     color: white;
+    gap: 10px;
 `
 export const DivDois = styled.div`
     display: flex;
