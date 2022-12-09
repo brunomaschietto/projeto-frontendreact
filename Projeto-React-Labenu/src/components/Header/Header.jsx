@@ -1,6 +1,6 @@
 import React from "react";
 import { Cabecalho, DivUm, DivDois, DivCarrinho} from "./styles";
-import iconeET from "../Fotos/icone-et.svg";
+import iconeET from "../Fotos/iconeSateliteHeader.png";
 import iconeCarrinho from '../Fotos/icons8-carrinho-de-compras-48.png'
 
 export default function Header(props) {
